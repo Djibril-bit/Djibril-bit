@@ -1,0 +1,5 @@
+git clone https://github.com/Djibril-bit/forked_repo.git
+cd forked_repo
+git add.
+git commit -m "Change from Trial 1 to Trial 2"
+git push origin main
